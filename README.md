@@ -6,11 +6,6 @@ focusing on full-stack development and cloud computing.
 I'm passionate about creating efficient, user-friendly 
 applications and contributing to open-source projects.
 
-### 🔭 Current Projects
-- Building a weather tracking application using React and Node.js
-- Contributing to open-source documentation projects
-- Developing a student resource management system
-
 ### 🌱 I'm currently learning
 - JavaScript and Python concepts
 - Cloud computing fundamentals
